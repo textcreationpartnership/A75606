@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The arraignment and tryall with a declaration of the Ranters also, several sentences proceedings at the sessions in the Old-Baily, and Councel of War: their protestations and the hanging of one up by the thumbs; with divers penalties to be inflicted upon others. The dancing and revelling of Dr. Buckeridge and his wife, and other gent. dancing all in white, in Berkshire, and their Christmas carol. A dispute between a Ranter in Bridewel, and one that came to see him; with his creed and pater noster: and the names of the false gods they worship. As also, a list of many of the Ranters, from whence they are derived: and of many hundreds of them in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75606</idno>
+            <idno type="STC">Wing A3748</idno>
+            <idno type="STC">Thomason E620_3</idno>
+            <idno type="STC">ESTC R206376</idno>
+            <idno type="EEBO-CITATION">99865537</idno>
+            <idno type="PROQUEST">99865537</idno>
+            <idno type="VID">117782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117782)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E620[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The arraignment and tryall with a declaration of the Ranters also, several sentences proceedings at the sessions in the Old-Baily, and Councel of War: their protestations and the hanging of one up by the thumbs; with divers penalties to be inflicted upon others. The dancing and revelling of Dr. Buckeridge and his wife, and other gent. dancing all in white, in Berkshire, and their Christmas carol. A dispute between a Ranter in Bridewel, and one that came to see him; with his creed and pater noster: and the names of the false gods they worship. As also, a list of many of the Ranters, from whence they are derived: and of many hundreds of them in England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A. and published according to order,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Annotation on Thomason copy: "Dec. 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ranters --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117782:1" rendition="simple:additions"/>
+            <p>The Arraignment and Tryall WITH A DECLARATION of the RANTERS ALSO, Several Sentences proceedings at the Seſſions in the <hi>Old-Baily,</hi> and Councel of War: their proceſtations and the hanging of one up by the Thumbs; with divers Penalties to be inflicted upon others. The dancing and revelling of Dr. <hi>Buckeridge</hi> and his Wife, and other Gent. dancing all in white, in Berkſhire, and their Chriſtmas Carol. A Diſpute between a Ranter in Bridewel, and one that came to ſee him; with his CREED and PATER NOSTER: and the Names of the falſe Gods they worſhip. As alſo, a Liſt of many of the Ranters, from whence they are derived: and of many hundreds of them in England.</p>
+            <figure/>
+            <p>Printed by <hi>B. A.</hi> and publiſhed according to order. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117782:2"/>
+            <pb n="1" facs="tcp:117782:2"/>
+            <head>THE TRYALL Of the RANTERS Or a Faithfull Chronicle and Narrative of their confeſſion, lives words, and actions, for many years together, their Creed and Paternoſter, with the ſeverall kind of puniſh<g ref="char:EOLhyphen"/>ments inflicted upon above twenty of them, together with ſome arguments, and ſeveral other things tou<g ref="char:EOLhyphen"/>ching thoſe that are tried this preſent Seſſions.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Igh time it was for the Ranters to be whipt and ſtript, but alas (ſaith one) <hi>why ſhould we judge of any?</hi> and un<g ref="char:EOLhyphen"/>der pretence of ſcruple of conſcience, would not have the notorious wicked practiſes of thoſe wicked blaſphe-phemous wretches laid open, or at leaſt wiſe not in ſuch a plain manner that muſt needs render them ſurpaſſing vile and filthy, and to help this over the ſtile another tender hearted creature, ſaith. <hi>But is it fit that women ſhould be brought in under the notion of whores, truly I dare not to ſay any one is ſo except I ſaw her in the fact, let her carriage and report be what it will, and I will believe no more
+<pb n="2" facs="tcp:117782:3"/>but what I ſee with my eyes, and hear with my ears.</hi> Theſe are ſuch as conceal and cover the fins of <hi>Sodom</hi> and would have none to cry aloud, or declare the ſins of the people, and where ever I find ſuch as will mince or leſſon ſin I ſhall fear that they are readier to be drawn into a moſt dam<g ref="char:EOLhyphen"/>nable opinion (with the Ranters) that ſin is no ſin rather then to practiſe and perſevere in the ways of God.</p>
+            <p>It is not my intent to trouble you with that which hath been already publiſhed, for that were to tire the reader with repetitions, therefore wil I diſ<g ref="char:EOLhyphen"/>cover ſome paſſages which have not yet been mentioned in others, and con<g ref="char:EOLhyphen"/>clude with the trial of others, and the puniſhments inflicted.</p>
+            <p>A journeyman Shoemaker that wrought in St. <hi>Martins,</hi> did oftentimes utter ſuch wicked and blaſphemous words, that the Shoemaker which ſet him on work, and his wife, were oftentimes much terrified and moved to hear his Diabolical expreſſions, in which he perſiſted after often admoniti<g ref="char:EOLhyphen"/>on and warning, which cauſed his Maſter to forbear ſetting him on work any longer: and not long after, he was taken revelling and blaſpheming and carried to Bridewell. Amongſt other ſpeeches of his (which would cauſe a mans ears tingle to hear) when he heard any mention of God, he uſed to laugh, and in a diſdainfull manner ſay, that he beleeved <hi>money,</hi> good <hi>clothes,</hi> good <hi>meat</hi> and <hi>drinke, tobacco,</hi> and <hi>merry company</hi> to be <hi>Gods: but he was little beholding to any of theſe; for his God allowed him but eight pence or ten pence a day, and that he made him work for; and he knew not of any thing could be gotten from him by fair means, therefore he would have a ſaying to him, and force what he pleaſed.</hi> With many o<g ref="char:EOLhyphen"/>ther words to the ſame effect, and ſo blaſphemous, that they are not fit to be once ſo much as named amongſt Chriſtians.</p>
+            <p>And at another time in his Ranting mood a ſober man reproved him for ſuch wicked words as fell from him, and ſaid that if he had any love to God or fear of the Divell he durſt nor do it, the Shoo-maker, replied to this effect (yet in broader language) <hi>that the Divel was nothing but the backſide of God, and that it was but a ſcarcrow,</hi> and other ſuch like ſpee<g ref="char:EOLhyphen"/>ches proceeding of the height Atheiſm and prophaneſſe, in which lamentable condition it appears that he ſtill remains, for his late Miſtris went but few days ſince to give him a viſit in <hi>Bridewell</hi> hoping to have found him peni<g ref="char:EOLhyphen"/>tent, and ſorrowfull for what had been paſt, and when ſhe came thither tſhe found him beating Hemp, and asked him if the making of Shoes were not better, to which he anſwered yea, and ſaid <hi>that it was her God that brought him thither,</hi> then ſaid ſhe, thou maieſt take notice that my God is juſt in bring thee to open ſhame and puniſhment for thy wicked and un<g ref="char:EOLhyphen"/>godly words and deeds whereby thou haſt long diſhonoured him therefore
+<pb n="3" facs="tcp:117782:3"/>it is time for thee to be think with thy ſelf, what a ſad eſtate thou art in if thou repenteſt not, which words of hers were altogether ſlighted and reje<g ref="char:EOLhyphen"/>cted by him and inſtead of ſeeing of good to be wrought in him, he ſaid <hi>he was as be was made, and it was not for her to inſtruct him, if ſhe would give him any Beer und Tobacco, he would take it, but as for her advice ſhe might keep it to her ſelf.</hi>
+            </p>
+            <p>This Shoemaker was once a man that was called an Anabaptiſt; but in life and converſation was long noted not to make conſcience of any thing and it is no marvel, that when men are given over a looſe life and conver<g ref="char:EOLhyphen"/>ſation, they are meer Atheiſts, and become ſo impious therein, that they think all things come by nature, and believe not that there is a Jehovah, which created all things, and gives a being and preſervation to them being created.</p>
+            <p>And according unto this, one of this viperous generation, in the Church, at the great St. <hi>Hellens, London,</hi> got up into the Pulpit, and pretended to make a Sermon; and read a portion of the Prophet <hi>Eſay,</hi> where it is ſaid, <hi>I the Lord of H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sts will,</hi> &amp;e. In opening which words he ſaid, That it is not ſaid <hi>He,</hi> but <hi>I;</hi> which according to his application, was meant of eve<g ref="char:EOLhyphen"/>ry mans particular; and and alſo blaſphemingly ſaid, Thut our Saviour Chriſt was but an ordinary fellow: and in this kind of wicked prophanati<g ref="char:EOLhyphen"/>on he ſpent the whole time allotted, to the great diſquiet and grief of many honeſt hearted people which heard him; and although he were guarded by a party of his own, yet was his hat turned beſide his head, as ſoon as he came out of the Pulpit: then he haſtened into the Veſtry, and a grave and ſober man that heard him, demanded, Whether he would give ſa<g ref="char:EOLhyphen"/>tisfaction for what he had with ſo much impudency and blaſphemy ſpoken? and he engaged his word to meet him before a Magiſtrate the next day, at a certain time and place: but he that makes no Conſcience of any thing, cares not for his word, and therefore he obſerved not the keeping of it. And many of them are arrived at that height of incorrigible madneſſe and ab<g ref="char:EOLhyphen"/>hominable impudence, that they fear not (in all companies where they come) to conteſt that all things were made by nature, that mans ſoul dieth with his body, that the Scriptures are meer lies and tales, <hi>&amp;c.</hi>
+            </p>
+            <p>Another of them taking a piece of boiled beef betwixt his hands, and tearing it in his hands, gave part thereof to one of his companions, uſing theſe words in deriſion of the bleſſed Sacrament) <hi>the Body and Bloud of our Lord Jeſus Christ.</hi>
+            </p>
+            <p>A ſhe Ranter ſaid openly in the hearing of many, (a friend of mine ac<g ref="char:EOLhyphen"/>ciden<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly one of them) that ſhe ſhould think her ſelf a happy woman, and a ſuperlative ſervant of Gods if any man would accompany with her <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arnally.</p>
+            <pb n="4" facs="tcp:117782:4"/>
+            <p> I ſhall compare the actions of theſe and others of their crew, with ſome that we read of in former times, which came neareſt in opinion and practiſe to them.</p>
+            <p>In the year 353. there were diſcovered a ſort of people that came out of <hi>Affrica,</hi> calling themſelves Donatiſts (as ſome of theſe do,) which held many ſtrange opinions; and though adjudged to be the greateſt Hereticks of that time, yet they held forth to the people, <hi>that none were pure but themſelves.</hi>
+            </p>
+            <p>And in the ninth year of the Raign of K. <hi>Hen.</hi> 2 <hi>Anno</hi> 1163. there came into England one <hi>Gerrard</hi> a <hi>Germain,</hi> with many others which de<g ref="char:EOLhyphen"/>nied Matrimony and both the Sacraments (as many of theſe do) and Chriſt himſelf. This <hi>Gerrard</hi> himſelf had ſome learning, but the reſt were ignorant perſons which he miſled, they were examined, and found guilty and received ſentence as obſtinate Hereticks, for they were marked or ſtig<g ref="char:EOLhyphen"/>matized in the forehead, after that they were all ſharply whipt, which pu<g ref="char:EOLhyphen"/>niſhment they ſeemed indeed to receive (with more joy than theſe of our time) and by the command of the King and ſtate they were afterwards turned out of priſon, and people were forbidden either to harbour or re<g ref="char:EOLhyphen"/>lieve them, ſo that with the extremity of the cold of winter and want of food and harbour, they all died miſerably ſtarved with cold and famiſhed with hunger.</p>
+            <p>There came alſo into England in the time of <hi>Edward</hi> 3. <hi>Anno Dom<g ref="char:punc">▪</g>
+               </hi> 1349. out of Holland, Zealand, and parts adjacent about 120 perſons with an opinion that a man might take as many wives as he was able to main<g ref="char:EOLhyphen"/>tain, and if there were any Reſurrection it was by virtue of the motion of the Planets, yet theſe laſt, were not ſo brutiſh as they in our time; for they ac<g ref="char:EOLhyphen"/>knowledged ſomething of God and met together at certain times to hear exhortations from thoſe which were eſteemed to be beſt gifted a<g ref="char:EOLhyphen"/>mongſt them, and were called <hi>Stoicks</hi> in reference to the place where they ſualy met together; for <hi>Stowy</hi> in the Greek language ſignifieth a Porch.</p>
+            <p>In the 11 year of Queen <hi>El<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zabeth,</hi> there ſprung a people in England, which called themſelves the family of love, which held forth an opinion that women ought to be common: both ſects ſaluted one another at their firſt meeting, as the Ranters now do, they ſpent their time in pleaſure and prophaneſſe, for which two of them did pennance at <hi>Pauls</hi>-Croſſe, and there confeſſed and deteſted their wicked and damnable hereſies.</p>
+            <p>In the 33 year of Queen <hi>Elizabeth, Anno</hi> 1591. One <hi>Edward Cop<g ref="char:EOLhyphen"/>pinger</hi> and <hi>Henry Archington,</hi> repaired to the houſe of one <hi>John Walker,</hi> at Broken wharfe, <hi>London,</hi> where they found a Northamptonſhire young
+<pb n="5" facs="tcp:117782:4"/>man, named <hi>William Hacket,</hi> to whom the ſaid <hi>Coppinger</hi> and <hi>Arthington</hi> ſaid, that they were come to anoint him King: but <hi>Hacket</hi> replied, that they needed not ſo to do; for he was already anointed by the Holy Ghoſt: and the ſaid <hi>Hacket</hi> cauſed <hi>Coppinger</hi> and <hi>Arthington</hi> to believe that he was Jeſus Chriſt; (and ſome of the Ranters do (at leaſt in ſubſtance) af<g ref="char:EOLhyphen"/>firm that they are Chriſt) ſo they proclaimed him in London, and at laſt for theſe blaſphemies, and other things proved againſt him, he was hanged in Cheapſide.</p>
+            <p>In the 16 year of the Reign of King <hi>James,</hi> one <hi>John Trusk</hi> ſtood in the Pillory at Weſtminſter, for ſtrange and blaſphemous opinions concerning Chriſt, and the Sabbath; as theſe Ranters have, which eſteem every day like, and make a ſcoff at ſuch as go to hear or pray, ſome of them ſaying, that they can make as good a <hi>Pater noster</hi> as the <hi>Lords Prayer</hi> is, <hi>&amp;c.</hi>
+            </p>
+            <p>I ſhall now come down to the times of our preſent memory which is hardly able to record how many they are, and the helliſh opinions they have fomented, and the heighth they are grown unto, notwithſtanding the diligent care which the civil Magiſtrate and Officers of the Army have had from time to time to puniſh and ſuppreſs Blaſphemers, and ſuch as walk inordinately; of which might be inſtanced above an hundred late examples, all which might be particularly recited, were it neceſſary in this place to be inſerted; which being not held fit, I ſhall onely remaind you of ſome few that are laſt, and proceed to ſuch as were this Seſſions tryed in the Old-Baily. <hi>Claxton</hi> was a trades man; and having attained ſome meaſure of knowledge, a bold ſpirit and utterance, he would have taken on him to become a teacher; but he ſoon after fell into ſuch exceſſe of ryot, that he came within the compaſſe of being puniſhed by the Civill Magiſtrate by whom he was committed to Bridewell where (doubtleſſe) for many moneths together he hath participated of the cuſtome of the houſe which is a puniſhment not inferiour to thoſe that were inflicted in former times on ſuch kind of offendors, an officer of the army in Scotland, holding ſtrange opinions of Jeſus Chriſt was caſhiered in diſhonour, and is not to pre<g ref="char:EOLhyphen"/>ſume to come into the army any more on perill, another officer which held that <hi>ſin</hi> was <hi>no ſin,</hi> had his ſword broken over his head, and for ever ca<g ref="char:EOLhyphen"/>ſhiered, I have alſo heard of one more (to the honour of the Court-Martial let it be ſpoken) which for the height of offcutes proved againſt him hath ſentence firſt to be hung up by the Thumbs for a good ſpace of time, and after he is cut down to be openly whipt, and about three weeks or a moneth ſince a ſouldier for his ranting (as its called) was whipt at a Carts tail from Pauls Church to the Royall Exchange.</p>
+            <p>
+               <hi>Collins, Shakeſpear, Waddleworth,</hi> and the reſt that were taken in Moor<g ref="char:EOLhyphen"/>lane,
+<pb n="6" facs="tcp:117782:5"/>and carryed to Bridewel, ſhewed bliſters (to the Juſtices) and a king backs, and promiſe amendment for the future; divers others that were ſince taken, were brought to the Seſſions, who acknowledge, now they ſmart, that there is a <hi>heaven</hi> and a <hi>heil;</hi> yet leſt they ſhould return with the Dog to the Vomit, and the Swine to the wallowing in the Mire, it is not amiſſe that they ſhould taſt a few more of the Prodigals <hi>husks,</hi> without which, there is litle hopes of a through Reformation: and bec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſe ſuch as are able to ſpeak <hi>wiſely</hi> before <hi>wiſe men,</hi> deſerve <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gre<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er puniſhment if they are found <hi>fools</hi> among the <hi>ignorant.</hi> And in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd ſome of them were convicted of their evil-words and uncivil behaviour, they are bound to the good behaviour for the time to come, and they are to be whipt and receive further puniſhment if they be taken again. As for <hi>Cop,</hi> who wrote the <hi>Ply<g ref="char:EOLhyphen"/>ing Roll,</hi> and ſome other of the principal Ring-leaders, to whom much of what hath been lately ſet forth, touching matters of Blaſphemy do relate, are charged in a more capital nature of offending, and will be brought to their tryal in due time. Therefore I ſhall conclude with a Liſt of the Ran<g ref="char:EOLhyphen"/>ters before mentioned. <hi>A List of the Ranters tried as followeth.</hi>
+               <list>
+                  <item>Jo. Collins.</item>
+                  <item>Jo. Gerrard.</item>
+                  <item>Ed. Copinger.</item>
+                  <item>Hen. Arthington.</item>
+                  <item>F. Ket.</item>
+                  <item>Jo. Ask.</item>
+                  <item>T. Shakeſpear.</item>
+                  <item>M. Waddleworth.</item>
+                  <item>Jo. Webb.</item>
+                  <item>Eliz. Trule.</item>
+                  <item>Jane Waggle.</item>
+                  <item>and many others</item>
+               </list>
+            </p>
+            <p>The laſt thread which is to be wound upon this bottome is a relation which we have out of Berkſhire, concerning one Dr. <hi>Buckeridge</hi> who after he had preached publickly in the Pulpit ame down and went home to his houſe, and found his wife and ſome other women clothed in white with which it appeared that he was well pleaſed, for that himſelf forthwith chan<g ref="char:EOLhyphen"/>ged his habit into the like ſimilitude and joyned company with them, and ſo danced together in their white array, and were apprehended by ſome Gentlemen of the Country.</p>
+            <div type="carol">
+               <head>A Chriſtmas Carol.</head>
+               <l>They prate of God; believe it, Fellow-Creature,</l>
+               <l>There's no ſuch Bug-bear, all was made by Nature:</l>
+               <l>We know all came of nothing, and ſhall paſſe</l>
+               <l>Into the ſame condition once it was,</l>
+               <l>By Natures power: and that they groſſely lie,</l>
+               <l>That ſay there's hope of immortality:</l>
+               <l>Let them but tell us what a ſoul is, then</l>
+               <l>We will adhere to theſe madbrain ſick men.</l>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
